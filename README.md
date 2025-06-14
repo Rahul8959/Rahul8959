@@ -23,6 +23,7 @@ Building scalable ML systems, intelligent APIs, and AI-assisted tools. Passionat
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### 📚 Libraries & Tools
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -34,6 +35,9 @@ Building scalable ML systems, intelligent APIs, and AI-assisted tools. Passionat
 ![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge&logo=python&logoColor=white)
 ![AutoTS](https://img.shields.io/badge/AutoTS-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-ffcc00?style=for-the-badge&logo=openai&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 
 ### 🔧 Dev & Deployment Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -41,7 +45,7 @@ Building scalable ML systems, intelligent APIs, and AI-assisted tools. Passionat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
+
 
 ## 📫 Let's Connect
 
