@@ -43,22 +43,6 @@ Building scalable ML systems, intelligent APIs, and AI-assisted tools. Passionat
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-## 🚀 Highlighted Projects
-
-- **📉 Customer Churn Prediction**  
-  Built a machine learning model to identify customers likely to churn using classification techniques, class balancing, and interpretability tools like SHAP and feature importance visualizations.
-
-- **📈 Time Series Forecasting System**  
-  Developed adaptive forecasting APIs with LLM-guided model selection using AutoTS, deployed with Flask and custom filters.
-
-- **🧠 NLP-Based Spam Detection**  
-  Deployed a high-accuracy spam classifier with advanced text preprocessing and feature extraction.
-
-- **📊 Loan Prediction with XGBoost**  
-  Built an explainable ML model to predict loan approvals with strong classification metrics.
-
----
-
 ## 📫 Let's Connect
 
 - 📧 [rahulshakya732@gmail.com](mailto:rahulshakya732@gmail.com)
