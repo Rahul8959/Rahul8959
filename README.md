@@ -14,9 +14,9 @@ Building scalable ML systems, intelligent APIs, and AI-assisted tools. Passionat
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 🛠 Languages & Frameworks
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,7 +25,7 @@ Building scalable ML systems, intelligent APIs, and AI-assisted tools. Passionat
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 📚 Libraries & Tools
+### Libraries & Tools
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -39,7 +39,7 @@ Building scalable ML systems, intelligent APIs, and AI-assisted tools. Passionat
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-ffcc00?style=for-the-badge&logo=openai&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 
-### 🔧 Dev & Deployment Tools
+### Dev & Deployment Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,7 +47,7 @@ Building scalable ML systems, intelligent APIs, and AI-assisted tools. Passionat
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 📧 [rahulshakya732@gmail.com](mailto:rahulshakya732@gmail.com)
 - 🌐 [linkedin.com/in/rahul-shakya-277463206](https://www.linkedin.com/in/rahul-shakya-277463206)
